@@ -20,9 +20,6 @@ There's not a lot to construct in this project- it's just an Uno and LCD Touch S
 Mount the shield ontop of the Uno.
 
 
-## Downloads
-* [Source code](..)
-
 ## Software Libraries
 |Library | Author
 | --- |--- |
