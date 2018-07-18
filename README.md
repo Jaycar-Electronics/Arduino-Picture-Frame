@@ -3,7 +3,7 @@ _Project 00003_
 
 There's not a lot to construct in this project- it's just an Uno and LCD Touch Shield, but if you want a simple project that looks slick, then it's a good place to start. We call it a 'Picture' frame because it only supports .BMP bitmap files. It's possible to decode .JPG's with Arduino, but we would need to use a Mega board for the memory requirements, and this approach makes the program more portable if you'd like to use the code in different applications. And it's pretty straightforward to convert your photos into .BMP files for the Arduino Picture Frame to display.
 
-![](../images/NPI00003a.png)
+![](images/NPI00003a.png)
 
 ## Bill of Materials
 | Qty | Code | Description |
